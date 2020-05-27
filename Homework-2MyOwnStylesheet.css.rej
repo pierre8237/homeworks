@@ -1,0 +1,9 @@
+diff a/Homework-2MyOwnStylesheet.css b/Homework-2MyOwnStylesheet.css	(rejected hunks)
+@@ -0,0 +1,6 @@
++    {   
++        
++    }
++        #index #myBuddies{
++            color:yellowgreen
++    }
+\ No newline at end of file
